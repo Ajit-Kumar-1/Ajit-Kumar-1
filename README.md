@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ajit-Kumar-1
-- 🌱 I'm currently working on developing my React Native skills
 - 📫 Reach me at ajitkumarxc8@gmail.com
 
 <!---
